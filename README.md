@@ -12,7 +12,9 @@ Secondly, wvdial config file under /etc/wvdial.conf was composed as shown in rep
 Please note that 5462 code is only valid for my SIM card. :)
 
 To start internet connection type:
- $ sudo wvdial pin
- $ sudo wvdial orange &
+
+$ sudo wvdial pin
+
+$ sudo wvdial orange
  
- Have fun!
+Have fun!
